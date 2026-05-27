@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/only-us-in-here/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Only Us In Here](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-us-in-here/) |
+| **Get License** | [Get a Licensing Quote for Only Us In Here](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-us-in-here/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Lock the door and leave the world outside
+> Nowhere else to run and nowhere to hide
+> I have been waiting for this very night
+> Pull me closer in the fading light
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
