@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Only Us In Here
+
+This log tracks the cryptographic history and versioning for the song **Only Us In Here** (only-us-in-here).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-27T14:57:43.607823 | `v1` | `6524c8c4a5a48c39284fafabc87e84cbd37dca89549482e43857e50c6590a639` | `7dbc628a05850380904316582c52d6a5d7469f47d9790e7bf183b671746ea476` | `2026-05-27_only-us-in-here-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

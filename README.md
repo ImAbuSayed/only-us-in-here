@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/only-us-in-here/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Only Us In Here](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-us-in-here/) |
+| **Get License** | [Official Music Licensing for Only Us In Here](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-us-in-here/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6524c8c4a5a48c39284fafabc87e84cbd37dca89549482e43857e50c6590a639` |
 | **Timestamp** | May 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
